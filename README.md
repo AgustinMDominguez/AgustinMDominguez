@@ -1,24 +1,22 @@
-I am a student at FaMAF (Facultad de Matemática, Astronomía, Física y Computacion), UNC (Universidad Nacional de Cordoba) working towards a CS Degree.  
+I am a Backend Python Developer currently working at Welo.tv and a CS Student at UNC (National University of Cordoba).
 
  - :octocat: I’m currently working on:  
    - An online multiplayer game adapted from the board game Secret Voldemort
    
  - :seedling: I’m currently learning  
-   - JavaScript
-   - React  
-   - React-redux
-   - css
-   - FastAPI
-   - PonyORM
+   - Django
+   - GraphQL
+   - Docker
+   - Kubernetes
  
  - 📫 How to reach me: 
 `agustinmarcelodominguez@gmail.com`
 
  - :rainbow: I want to learn:  
    - Java
-   - TypeScript
+   - COBOL
 
- - 😄 Pronouns:  
+ - :wave:	Pronouns:  
  he/him
 
 <!--
