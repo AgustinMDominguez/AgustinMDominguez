@@ -2,7 +2,7 @@
 
 I am a **Backend Python** developer currently working at [Welo.tv](welo.tv) and a CS Student at UNC (National University of Cordoba).
 
-- :chart_with_upwards_trend: 	chart_with_downwards_trend  I work professionally with:
+:chart_with_upwards_trend: 	chart_with_downwards_trend  I work professionally with:
   - Python
   - Django
   - ffmpeg
@@ -12,7 +12,7 @@ I am a **Backend Python** developer currently working at [Welo.tv](welo.tv) and 
   - Elasticsearch
   - GraphQL
 
-- :octocat: Outside my job I’m currently working on:
+:octocat: Outside my job I’m currently working on:
   - An open source Android app for time tracking and scheduling
   - An open source Python library for **ffmpeg**
 
