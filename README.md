@@ -16,7 +16,7 @@ I am a **Backend Python** developer currently working at [Welo.tv](welo.tv) and 
   - An open source Android app for time tracking and scheduling
   - An open source Python library for **ffmpeg**
 
-:check: Some finished projects I'm proud of:
+:heavy_check_mark: Some finished projects I'm proud of:
   - [Bedu Shop, an e-commerce mobile app developed on the BEDU Kotlin course](https://github.com/shirosweets/Proyecto-Bedu-Naranja-Kotlin) *(2021)*
   - [Secret Voldermort, a full stack online game based on the game Secret Hitler built with React and Python](https://github.com/shirosweets/Secret-Voldemort-20) *(2020)*
   - [Snakepy, the game of snake](https://github.com/AgustinMDominguez/Snake_Python) *(2015)*
