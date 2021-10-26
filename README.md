@@ -1,35 +1,32 @@
-I am a Backend Python Developer currently working at Welo.tv and a CS Student at UNC (National University of Cordoba).
+[![Gmail Badge](https://img.shields.io/badge/-agustinmarcelodominguez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agustinmarcelodominguez@gmail.com)](mailto:agustinmarcelodominguez@gmail.com)
 
- - :octocat: I’m currently working on:  
-   - An online multiplayer game adapted from the board game Secret Voldemort
-   
- - :seedling: I’m currently learning  
-   - Django
-   - GraphQL
-   - Docker
-   - Kubernetes
- 
- - 📫 How to reach me: 
-`agustinmarcelodominguez@gmail.com`
+I am a **Backend Python** developer currently working at [Welo.tv](welo.tv) and a CS Student at UNC (National University of Cordoba).
 
- - :rainbow: I want to learn:  
-   - Java
-   - COBOL
+- :chart_with_upwards_trend: 	chart_with_downwards_trend  I work professionally with:
+  - Python
+  - Django
+  - ffmpeg
+  - GCP
+  - Docker
+  - Kubernetes
+  - Elasticsearch
+  - GraphQL
 
- - :wave:	Pronouns:  
- he/him
+- :octocat: Outside my job I’m currently working on:
+  - An open source Android app for time tracking and scheduling
+  - An open source Python library for **ffmpeg**
 
-<!--
-**AgustinMDominguez/AgustinMDominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:check: Some finished projects I'm proud of:
+  - [Bedu Shop, an e-commerce mobile app developed on the BEDU Kotlin course](https://github.com/shirosweets/Proyecto-Bedu-Naranja-Kotlin) *(2021)*
+  - [Secret Voldermort, a full stack online game based on the game Secret Hitler built with React and Python](https://github.com/shirosweets/Secret-Voldemort-20) *(2020)*
+  - [Snakepy, the game of snake](https://github.com/AgustinMDominguez/Snake_Python) *(2015)*
 
-Here are some ideas to get you started:
+:seedling: I’m currently learning or improving:
+  - Kotlin
+  - NodeJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:wave: Pronouns: he/him
+
+:rainbow: I want to learn:
+  - COBOL
+  - Java
