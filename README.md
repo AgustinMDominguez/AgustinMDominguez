@@ -1,8 +1,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-agustinmarcelodominguez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agustinmarcelodominguez@gmail.com)](mailto:agustinmarcelodominguez@gmail.com)
 
-I am a **Backend Python** developer currently working at [Welo.tv](welo.tv) and a CS Student at UNC (National University of Cordoba).
+I am a **Junior Software Engineer**, Android and Python developer currently working at [NaranjaX](https://www.naranjax.com/) and a CS Student at UNC (National University of Cordoba).
 
-:chart_with_upwards_trend: 	chart_with_downwards_trend  I work professionally with:
+:chart_with_upwards_trend: 	chart_with_downwards_trend  I'm currently working  professionally with:
+  - Kotlin
+
+:chart_with_upwards_trend: 	chart_with_downwards_trend  I worked professionally with:
   - Python
   - Django
   - ffmpeg
