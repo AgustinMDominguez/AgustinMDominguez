@@ -2,10 +2,10 @@
 
 I am a **Junior Software Engineer**, Android and Python developer currently working at [NaranjaX](https://www.naranjax.com/) and a CS Student at UNC (National University of Cordoba).
 
-:chart_with_upwards_trend: 	chart_with_downwards_trend  I'm currently working  professionally with:
-  - Kotlin
+:chart_with_upwards_trend: 	I'm currently working  professionally on:
+  - Android Development with Kotlin
 
-:chart_with_upwards_trend: 	chart_with_downwards_trend  I worked professionally with:
+:chart_with_upwards_trend: 	I worked professionally with:
   - Python
   - Django
   - ffmpeg
@@ -32,4 +32,4 @@ I am a **Junior Software Engineer**, Android and Python developer currently work
 
 :rainbow: I want to learn:
   - COBOL
-  - Java
+  - Go
