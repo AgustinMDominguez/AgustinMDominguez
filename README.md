@@ -33,3 +33,5 @@
 ### :rainbow: I want to learn:
   - Rust
   - Go
+  - Angular
+  - Vue
