@@ -7,6 +7,7 @@
 
 ### :chart_with_upwards_trend: 	I worked professionally with:
   - Python
+  - Kotlin
   - Django
   - ffmpeg
   - GCP
@@ -14,6 +15,9 @@
   - Kubernetes
   - Elasticsearch
   - GraphQL
+  - Android
+  - API REST
+  - Compose
 
 ## :octocat: Outside my job I’m currently working on:
   - An open source Android app for time tracking and scheduling
