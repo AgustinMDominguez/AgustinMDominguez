@@ -46,14 +46,14 @@
 ## :octocat: Outside my job I’m currently working on:
   - An open source Android app for time tracking and scheduling
   - [Project Euler](https://projecteuler.net/) problems in Rust
-  - [Snake Beby](https://github.com/AgustinMDominguez/bevy-snake-rs) | Rust, Bevy | *(2023)*
-    - The game of snake implemented in the Rust Game Engine called Beby
 
 ## 🕐 Projects I'd like to do someday
-  - An open source Python library for **ffmpeg**
+  - An open source Python/Rust wrapper library for **ffmpeg**
   - A protocol for radio communications for radio enthusiasts
 
 ## :heavy_check_mark: Some finished projects I'm proud of:
+  - [Snake Beby](https://github.com/AgustinMDominguez/bevy-snake-rs) | Rust, Bevy | *(2023)*
+    - The game of snake implemented in the Rust Game Engine called Beby
   - [Prompt](https://github.com/AgustinMDominguez/Prompt) | Python, Open AI API | *(2023)*
     - A command line interface for Chat GPT and other POC for Open AI's projects
   - [Bedu Shop](https://github.com/shirosweets/Proyecto-Bedu-Naranja-Kotlin) | Kotlin, Android | *(2021)*
